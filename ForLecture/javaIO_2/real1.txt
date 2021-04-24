@@ -1,0 +1,3 @@
+ini baris 1
+ini baris
+ini

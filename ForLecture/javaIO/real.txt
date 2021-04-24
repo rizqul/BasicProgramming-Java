@@ -1,0 +1,3 @@
+Baris Pertama
+Baris Kedua
+Baris Ketiga

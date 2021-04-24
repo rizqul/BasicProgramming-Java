@@ -1,0 +1,74 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MateriIOLab",
+            "request": "launch",
+            "mainClass": "MateriIOLab",
+            "projectName": "ForFun_1a1357d0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test_31",
+            "request": "launch",
+            "mainClass": "Test_31",
+            "projectName": "ForFun_1a1357d0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ModifierTest",
+            "request": "launch",
+            "mainClass": "ModifierTest",
+            "projectName": "ForFun_1a1357d0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test_28",
+            "request": "launch",
+            "mainClass": "Test_28",
+            "projectName": "ForFun_1a1357d0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BangunRuang",
+            "request": "launch",
+            "mainClass": "BangunRuang",
+            "projectName": "ForFun_1a1357d0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Materi_6",
+            "request": "launch",
+            "mainClass": "Materi_6",
+            "projectName": "ForFun_1a1357d0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Materi_2",
+            "request": "launch",
+            "mainClass": "Materi_2",
+            "projectName": "ForFun_1a1357d0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test_22",
+            "request": "launch",
+            "mainClass": "Test_22",
+            "projectName": "ForFun_1a1357d0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test_19",
+            "request": "launch",
+            "mainClass": "Test_19",
+            "projectName": "ForFun_16704adf"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test_9",
+            "request": "launch",
+            "mainClass": "Test_9",
+            "projectName": "ForFun_16704adf"
+        }
+    ]
+}

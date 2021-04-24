@@ -1,0 +1,88 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Combination_DynamicPrograming",
+            "request": "launch",
+            "mainClass": "Combination_DynamicPrograming",
+            "projectName": "PreTugas_91ad4fe0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasLatihan_20",
+            "request": "launch",
+            "mainClass": "TugasLatihan_20",
+            "projectName": "PreTugas_7ab1512f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasKelas_7",
+            "request": "launch",
+            "mainClass": "TugasKelas_7",
+            "projectName": "PreTugas_7ab1512f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasLatihan_13",
+            "request": "launch",
+            "mainClass": "TugasLatihan_13",
+            "projectName": "PreTugas_7ab1512f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasLatihan_9",
+            "request": "launch",
+            "mainClass": "TugasLatihan_9",
+            "projectName": "PreTugas_7ab1512f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasLatihan_7",
+            "request": "launch",
+            "mainClass": "TugasLatihan_7",
+            "projectName": "PreTugas_7ab1512f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasModul_4",
+            "request": "launch",
+            "mainClass": "TugasModul_4",
+            "projectName": "PreTugas_d39dbc7e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasKelas_5",
+            "request": "launch",
+            "mainClass": "TugasKelas_5",
+            "projectName": "PreTugas_d39dbc7e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasModul_1",
+            "request": "launch",
+            "mainClass": "TugasModul_1",
+            "projectName": "PreTugas_d39dbc7e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasModul_2",
+            "request": "launch",
+            "mainClass": "TugasModul_2",
+            "projectName": "PreTugas_d39dbc7e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasKelas_4",
+            "request": "launch",
+            "mainClass": "TugasKelas_4",
+            "projectName": "PreTugas_d39dbc7e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasKelas_3",
+            "request": "launch",
+            "mainClass": "TugasKelas_3",
+            "projectName": "PreTugas_d39dbc7e"
+        }
+    ]
+}
